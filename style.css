@@ -1,0 +1,64 @@
+.container {
+    width: 900px;
+    margin: auto;
+    border: 1.5px solid black;
+    padding: 20px;
+    
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 {
+    width: 40%;
+    margin: auto;
+    border: 1.5px solid black;
+    padding: 5px;
+    border-radius: 5%;
+    background-color: pink;
+    
+}
+.box2 {
+    width: 30%;
+    margin: auto;
+    border: 1.5px solid black;
+    border-radius: 5%;
+    padding: 5px;
+    background-color: yellowgreen;
+}
+.box3 {
+    width: 40%;
+    margin: auto;
+    padding: 5px;
+}
+.box3 img {
+    width: 100%;
+
+}
+.box4 {
+    width: 30%;
+    margin: auto;
+    border: 1.5px solid black;
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+.box5 {
+    width: 45%;
+    margin: auto;
+}
+.box5_1 {
+    width: 45%;
+    margin: auto;
+    border: 1.5px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+.box5_1 img {
+    width: 100%;
+    margin: auto;
+}
+
